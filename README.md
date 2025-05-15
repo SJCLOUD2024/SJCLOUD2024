@@ -10,8 +10,8 @@ Welcome to my GitHub! I'm a motivated and detail-oriented DevOps/Cloud Engineer 
 
 ## 🔧 What I Do
 
-- ☁️ **Cloud Platforms**: Google Cyber Security Certification, AWS (Certified Cloud Practitioner, pursuing Solutions Architect – Associate)
-- 🔁 **DevOps & Automation**: CI/CD pipelines, GitHub Actions, Jenkins, Bash scripting, AWS CodePipeline
+- ☁️ **Cloud Platforms**: AWS (Certified Solutions Architect – Associate, Certified Cloud Practitioner), Google Cyber Security Certification
+- 🔁 **DevOps & Automation**: CI/CD pipelines, GitHub Actions, Python, AWS CodePipeline
 - 🧱 **Infrastructure as Code**: Terraform
 - 🐳 **Containers & Orchestration**: Docker, ECS
 - 📈 **Monitoring & Logging**: CloudWatch
