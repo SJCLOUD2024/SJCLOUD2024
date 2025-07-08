@@ -2,7 +2,7 @@
 
 **DevOps & Cloud Engineer | AWS Enthusiast | Automation Advocate**
 
-Welcome to my GitHub! I'm a motivated and detail-oriented DevOps/Cloud Engineer with a strong foundation in cloud infrastructure, CI/CD pipelines, and infrastructure as code. My passion lies in building scalable, secure, and automated solutions that improve system reliability and deployment workflows.
+Welcome to my GitHub! Experienced DevOps and Cloud Engineer with a strong expertise in cloud computing, automation, and Infrastructure as Code (IaC). My passion lies in building scalable, secure, and automated solutions that improve system reliability and deployment workflows.
 
 🎯 **Currently seeking** a full-time opportunity where I can contribute to impactful cloud and DevOps projects, collaborate with innovative teams, and continue to grow as a Devops/cloud engineer.
 
@@ -11,11 +11,11 @@ Welcome to my GitHub! I'm a motivated and detail-oriented DevOps/Cloud Engineer 
 ## 🔧 What I Do
 
 - ☁️ **Cloud Platforms**: AWS (Certified Solutions Architect – Associate, Certified Cloud Practitioner), Google Cyber Security Certification
-- 🔁 **DevOps & Automation**: CI/CD pipelines, GitHub Actions, Python, AWS CodePipeline
+- 🔁 **DevOps & Automation**: CI/CD pipelines, GitHub Actions
 - 🧱 **Infrastructure as Code**: Terraform
-- 🐳 **Containers & Orchestration**: Docker, ECS
+- 🐳 **Containers & Orchestration**: Docker, ECS, Kubernetes
 - 📈 **Monitoring & Logging**: CloudWatch
-- 🔐 **Security & Compliance**: IAM, least privilege, encryption at rest/in-transit, AWS KMS, NACLs, SGs
+- 🔐 **Security & Compliance**: IAM, least privilege, SSL/TLS, AWS KMS, NACLs, SGs
 - 🧪 **Version Control & Collaboration**: Git, GitHub, Agile workflows
 
 ---
@@ -24,11 +24,13 @@ Welcome to my GitHub! I'm a motivated and detail-oriented DevOps/Cloud Engineer 
 
 Here you’ll find a collection of hands-on projects that demonstrate my ability to design, build, and manage modern DevOps and cloud-based solutions.
 
-- **Bash Script for Server Health Check**  
-•	Automated Server Health Monitoring – Developed a Bash script to monitor system performance by checking CPU usage, memory consumption, disk space and uptime
-•	Process optimisation – integrated a process monitoring feature to display the top memory consuming processes for better resource management
-•	Efficient system diagnostics – Enabled quick troubleshooting by generating real-time server health reports in a human-readable format
-•	Scripting & automation – Utilized Bash scripting to automate system checks, improving operational efficiency and reducing manual workload
+- **Containerized Full-stack Node.js Application with Docker, Docker compose, and Github Actions CI/CD**  
+•	Docker & Docker Compose: Designed and implemented multi-container architecture for MongoDB (database), Node.js REST API (backend), and React (frontend).
+•	Infrastructure as Code: Used Dockerfiles and Compose YAML files to declaratively define services, networks, and volumes.
+•	Secrets Management: Integrated GitHub Secrets to inject environment variables securely at runtime.
+•	CI/CD Pipeline: Implemented GitHub Actions to automate build, deploy, and vulnerability scans (via Trivy).
+•	Multi-Stage Builds: Reduced backend and frontend image sizes using multi-stage Dockerfiles for production optimization.
+•	Hot Reload Development Setup: Configured volume mounts for real-time file sync and developer efficiency.
 
 
 - **CICD Project: Automating Terraform Deployments with AWS CodeBuild**  
